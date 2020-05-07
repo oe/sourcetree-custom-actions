@@ -1,5 +1,5 @@
-# sourcetree custom actions
-useful sourcetree custom actions bash scripts. It can enable you to:
+# SourceTree custom actions
+Useful [SourceTree](https://www.sourcetreeapp.com/) custom actions bash scripts. It can enable you to:
 - Open current repo in Sublime Text
 - Open current repo in VS Code
 - Open Select commit in Browser(Support github/gitlab)
@@ -11,7 +11,7 @@ Tested on Mac, but should work on Linux and Windows(Win10 with sublinux) too(you
 
 1. [download this repo](https://github.com/oe/sourcetree-custom-actions/archive/master.zip)
 2. unzip and copy `scripts` to some untouched folder, like SourceTree's application data directory `~/Library/Application Support/SourceTree/`
-3. open `SourceTree` Go to `Preferences -> Custom Actions -> Add` and fill custom action with parameters as shown in the figure(add a shortcut if you wish): ![sourcetree](./sourcetree.png)
+3. open `SourceTree` Go to `Preferences -> Custom Actions -> Add` and fill custom action with parameters as shown in the figure(add a shortcut if you wish): ![SourceTree](./sourcetree.png)
 
 
 ## Tips
