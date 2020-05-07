@@ -18,3 +18,5 @@ Tested on Mac, but should work on Linux and Windows(Win10 with sublinux) too(you
 If you are using Mac, when browser a repo with SourceTree, you may press <kbd>⌘</kbd> + <kbd>shift</kbd> + <kbd>/</kbd> and type the menu item name then press <kbd>enter</kbd> to call that menu
 
 
+You may need to add execution permission via `chmod +x *.sh` when an error `permission denied` shown up.
+
