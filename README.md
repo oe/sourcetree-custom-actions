@@ -4,8 +4,9 @@ Useful [SourceTree](https://www.sourcetreeapp.com/) custom actions bash scripts.
 - Open current repo in VS Code
 - Open Select commit in Browser(Support github/gitlab)
 - Copy current Repo Url to Clipboard
+- Open XCode project in XCode
 
-Tested on Mac, but should work on Linux and Windows(Win10 with sublinux) too(you may need to alter application path in the scripts)
+Tested on Mac, but should work on Linux and Windows(Win10 with SubLinux) too(you may need to alter application path in the scripts)
 
 ## how to install
 
