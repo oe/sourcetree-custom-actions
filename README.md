@@ -5,6 +5,7 @@ Useful [SourceTree](https://www.sourcetreeapp.com/) custom actions bash scripts.
 - Open Select commit in Browser(Support github/gitlab)
 - Copy current Repo Url to Clipboard
 - Open XCode project in XCode
+- Reset any local changes by running `git reset --hard HEAD`
 
 Tested on Mac, but should work on Linux and Windows(Win10 with SubLinux) too(you may need to alter application path in the scripts)
 
