@@ -23,3 +23,5 @@ If you are using Mac, when browser a repo with SourceTree, you may press <kbd>‚å
 
 You may need to add execution permission via `chmod +x *.sh` when an error `permission denied` shown up.
 
+## Alfred Workflow
+If you are using alfred on macOS, you may try [sourcetree-alfred-workflow](https://github.com/oe/sourcetree-alfred-workflow) also created by me
