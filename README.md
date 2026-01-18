@@ -12,14 +12,12 @@ Tested on Mac, but should work on Linux and Windows(Win10 with SubLinux) too(you
 
 ## how to install
 
-## how to install
-
 ### macOS (Automated)
 
 1. [download this repo](https://github.com/oe/sourcetree-custom-actions/archive/main.zip)
 2. Open terminal in the repo directory and run:
    ```bash
-   ./install-mac.swift
+   chmod +x ./install-mac.swift && ./install-mac.swift
    ```
 3. Restart `SourceTree`, Go to `Preferences -> Custom Actions` to see installed actions.
 
