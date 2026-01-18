@@ -12,7 +12,20 @@ Tested on Mac, but should work on Linux and Windows(Win10 with SubLinux) too(you
 
 ## how to install
 
-1. [download this repo](https://github.com/oe/sourcetree-custom-actions/archive/master.zip)
+## how to install
+
+### macOS (Automated)
+
+1. [download this repo](https://github.com/oe/sourcetree-custom-actions/archive/main.zip)
+2. Open terminal in the repo directory and run:
+   ```bash
+   ./install-mac.swift
+   ```
+3. Restart `SourceTree`, Go to `Preferences -> Custom Actions` to see installed actions.
+
+### Windows / Manual Installation
+
+1. [download this repo](https://github.com/oe/sourcetree-custom-actions/archive/main.zip)
 2. unzip and copy `scripts` to some untouched folder, like SourceTree's application data directory `~/Library/Application Support/SourceTree/`
 3. open `SourceTree` Go to `Preferences -> Custom Actions -> Add` and fill custom action with parameters as shown in the figure(add a shortcut if you wish): ![SourceTree](./sourcetree.png)
 
